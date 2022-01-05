@@ -1,0 +1,1 @@
+# acesso_mysql_local_fetch_javascript
