@@ -1,0 +1,12 @@
+
+  =========================================================================================
+  =                                                                                       =
+  =                                                                                       =
+  =	importante na consulta com fetch API é indicar a porta do servidor local,         =
+  =	no endereço.                                                                      =
+  =	Se usar o xampp, basta abrir e vê qua a porta do servidor local, apache.          =
+  =	geralmente é a porta 80, ignore os números depois da virgula,                     =
+  =	se aparecer 80,443 por ex.                                                        =
+  =                                                                                       =
+  =                                                                                       =
+  =========================================================================================
